@@ -1,5 +1,5 @@
 # PowerBI_aulas_praticas
-Repositório com Dashboards de Power BI de aulas práticas
+Repositório com Painéis de Power BI de aulas práticas
 
 Neste repositório há um arquivo .pbix com todos os painéis criados nas aulas práticas de Ferramentas de Business Intelligence;
 
